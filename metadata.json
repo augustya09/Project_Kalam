@@ -1,0 +1,5 @@
+{
+  "name": "Project Kalam",
+  "description": "AI-powered document intelligence engine for India's welfare system, simplifying eligibility for millions.",
+  "requestFramePermissions": ["microphone"]
+}
